@@ -1,0 +1,13 @@
+.register_form{
+    padding: 10px;
+}
+.link{
+
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    
+}
+.link:hover{
+    color: cornflowerblue;
+}
